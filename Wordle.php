@@ -5,7 +5,7 @@
  * Made for Hebsi#3789
  *
  * The code written here is very bad
- * Please do not copy, it's for your own good
+ * Please try not to copy, my code will prolly wreck your project
  */
 
 $word = "";
