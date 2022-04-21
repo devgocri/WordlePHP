@@ -5,6 +5,6 @@ Simple Wordle CLI game coded in PHP
 
 The word list was taken from [here](https://github.com/tabatkins/wordle-list).
 
-## How to run
+## How to run?
 
 Download the files and run `php Wordle.php` in your console.
